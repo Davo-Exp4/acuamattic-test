@@ -15,10 +15,10 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic_color-horizontal-removebg-preview.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic blanco-horizontal.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic_color-horizontal-removebg-preview.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic color-horizontal.png");
         }
     });
 
