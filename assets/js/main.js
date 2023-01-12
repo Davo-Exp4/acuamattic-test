@@ -18,7 +18,7 @@ $(function () {
             $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic blanco-horizontal.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic color-horizontal.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic-grises.png");
         }
     });
 
