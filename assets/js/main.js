@@ -15,7 +15,7 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic blanco-horizontal.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic-grises.png");
         } else {
             $(".navbar-area").addClass("sticky");
             $(".navbar .navbar-brand img").attr("src", "assets/images/acuamattic-grises.png");

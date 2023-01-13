@@ -612,7 +612,7 @@ p {
   .navbar-nav .nav-item a {
     font-size: 16px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(167, 163, 163);
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
@@ -786,7 +786,7 @@ p {
   .header-hero-content .header-sub-title {
     font-size: 38px;
     font-weight: 300;
-    color: #fff; }
+    color: rgb(167, 163, 163); }
     @media (max-width: 767px) {
       .header-hero-content .header-sub-title {
         font-size: 24px; } }
@@ -796,7 +796,7 @@ p {
   .header-hero-content .header-title {
     font-size: 38px;
     font-weight: 700;
-    color: #fff; }
+    color: rgb(167, 163, 163); }
     @media (max-width: 767px) {
       .header-hero-content .header-title {
         font-size: 24px; } }
@@ -804,7 +804,7 @@ p {
       .header-hero-content .header-title {
         font-size: 30px; } }
   .header-hero-content .text {
-    color: #fff;
+    color: rgb(167, 163, 163);
     margin-top: 30px; }
   .header-hero-content .main-btn {
     margin-top: 40px; }
